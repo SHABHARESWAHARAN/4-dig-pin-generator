@@ -18,7 +18,7 @@
 ![Screenshot from 2024-10-07 20-25-14](https://github.com/user-attachments/assets/a526b745-cc08-43b1-8d38-bfff2723bc4b)
 -
 **Step 3**
-- cnter your choise
+- enter your choise
 - "Y" or "y"
 
 ![Screenshot from 2024-10-07 20-25-47](https://github.com/user-attachments/assets/566491e7-856b-4d34-a66e-e6b068b1af9e)
