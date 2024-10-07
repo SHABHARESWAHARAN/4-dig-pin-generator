@@ -23,7 +23,7 @@
 
 ![Screenshot from 2024-10-07 20-25-47](https://github.com/user-attachments/assets/566491e7-856b-4d34-a66e-e6b068b1af9e)
 -
-- cnter your choise
+- enter your choise
 - "N" or "n"
 
 ![Screenshot from 2024-10-07 20-45-52](https://github.com/user-attachments/assets/cf35c015-f4e6-46dc-8920-e73ba39cadfb)
