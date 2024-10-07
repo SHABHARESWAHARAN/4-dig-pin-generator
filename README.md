@@ -29,7 +29,7 @@
 ![Screenshot from 2024-10-07 20-45-52](https://github.com/user-attachments/assets/cf35c015-f4e6-46dc-8920-e73ba39cadfb)
 -
 **Step 4**
-- find generated file "4-dig pin generator.txt"
+- find generated file "4-dig pin.txt"
 - file is avalable near to bash file
 
 ![Screenshot from 2024-10-07 20-26-06](https://github.com/user-attachments/assets/ebb61de6-abc6-4c14-a686-1b24368a0c91)
